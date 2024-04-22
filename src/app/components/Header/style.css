@@ -1,0 +1,7 @@
+ .listitem{
+    transition: all ease 0.5s;
+    cursor: pointer;
+ }
+ .listitem:hover{
+    transform: scale(1.1);
+ }
